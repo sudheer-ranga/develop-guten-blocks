@@ -4,7 +4,9 @@ A simple way to develop WordPress gutenberg blocks
 
 This plugin provides easy way to develop WordPress gutenberg blocks.
 
-> Plugin comes ready with live reload and code splitting so that you don't have to worry about plugin slowing down the Gutenberg block.
+> Plugin comes ready with hot reload and code splitting so that you don't have to worry about plugin slowing down the Gutenberg block.
+
+**_Note: I have used npm 10.16.0 during development_**
 
 **How to Install the plugin**
 
